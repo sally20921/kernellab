@@ -1,0 +1,1 @@
+cmd_/home/seri/Downloads/ptree/dbfs_ptree.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/seri/Downloads/ptree/dbfs_ptree.ko /home/seri/Downloads/ptree/dbfs_ptree.o /home/seri/Downloads/ptree/dbfs_ptree.mod.o
